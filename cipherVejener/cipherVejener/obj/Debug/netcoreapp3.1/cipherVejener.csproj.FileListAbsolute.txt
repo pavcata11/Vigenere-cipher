@@ -1,0 +1,13 @@
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.exe
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.deps.json
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.runtimeconfig.json
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.dll
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\bin\Debug\netcoreapp3.1\cipherVejener.pdb
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.dll
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.pdb
+C:\Users\Pavel\Desktop\5сем\Криптография\cipherVejener\cipherVejener\obj\Debug\netcoreapp3.1\cipherVejener.genruntimeconfig.cache
